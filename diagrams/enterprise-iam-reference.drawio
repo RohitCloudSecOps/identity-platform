@@ -1,1 +1,25 @@
+HR SYSTEMS
+      ↓
+IDENTITY LIFECYCLE
+      ↓
+DIRECTORY SERVICES
+      ↓
+┌─────────────────────────────────────┐
+│        IDENTITY PLATFORM            │
+│                                     │
+│ Authentication   Authorization      │
+│ Governance       RBAC               │
+│ SCIM             PAM                │
+│                                     │
+│        ZERO TRUST CONTROLS           │
+└─────────────────────────────────────┘
+      ↓          ↓          ↓
+ SaaS Apps   Cloud      Enterprise
+             Platforms  Applications
+      ↓
+SECURITY & OPERATIONS
 
+
+## Architecture Diagram
+
+![Enterprise IAM Reference Architecture](../diagrams/enterprise-iam-reference-architecture.png)
